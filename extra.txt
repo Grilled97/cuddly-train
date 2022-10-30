@@ -1,0 +1,28 @@
+git log
+just writing garbage
+
+wq
+;wq
+:wq
+
+
+
+
+
+
+
+
+:
+
+t
+
+wq
+WQ
+
+
+
+[B[B[B[A[A[A[D[D[C[C
+.
+>
+:wq
+	
